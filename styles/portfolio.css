@@ -1,0 +1,39 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+/* nev related style */
+.text-primary{
+    color: #FD6E0A;
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0px;
+    font-size: 20px;
+    color: white;
+    font-weight: 700px;
+    padding: 15px 30px;
+}
+nav{
+    display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+.nav-titel{
+    color: black;
+    font-size: 45px;
+    font-weight: 800;
+}
+nav > ui{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+nav >
