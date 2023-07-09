@@ -12,11 +12,12 @@ font-family: 'Open Sans', sans-serif;
 .btn-primary{
     border-radius: 5px;
     background: #FD6E0A;
+
     border: 0px;
     font-size: 20px;
     color: white;
-    font-weight: 700px;
-    padding: 15px 30px;
+    font-weight: 500px;
+    padding: 15px 20px;
 }
 .section-title{
     color: #181818;
@@ -57,9 +58,10 @@ nav a{
     color: #474747;
 }
 .hearder{
-    background-color: #FFF8F3;
-    background-image: url('../images/header_bg.png');
+    background-color: #e67f37;
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
    background-repeat: no-repeat;
+   background-position: bottom right;
 }
 .banner{
     padding: 30px 30px 30px 150px;
@@ -149,3 +151,12 @@ margin-bottom: 0;
     text-align: center;
     margin-top: 50px;
 }
+footer
+{
+    display: flex;
+    padding: 130px 200px;
+    margin-top: 100px;
+}
+/* .footer-item{
+    display: flex;
+} */
