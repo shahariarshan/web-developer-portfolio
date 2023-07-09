@@ -82,7 +82,7 @@ margin-bottom: 0;
 } 
 .about{
     text-align: center;
-    padding: 130px;
+    padding: 250px;
     border-radius: 10px;
     background: #FFF8F3;
     margin: 130px 0;
@@ -100,4 +100,11 @@ margin-bottom: 0;
 }
 .about-info{
     text-align: center;
+}
+#what-i-don-description{
+    padding: 30px 150px;
+
+}
+.skill-container{
+    display: flex;
 }
