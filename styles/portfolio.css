@@ -1,3 +1,7 @@
+*{
+    padding: 10px;
+    margin: 10px;
+}
 body{
 font-family: 'Open Sans', sans-serif;
 }
@@ -88,6 +92,7 @@ margin-bottom: 0;
     margin: 130px 0;
 }
 
+
 /* main style */
 .main{
     max-width: 1140px;
@@ -107,4 +112,40 @@ margin-bottom: 0;
 }
 .skill-container{
     display: flex;
+    /* margin: 150px;
+    justify-content: space-between;
+    padding-inline: 0px; */
+    gap: 24px;
+    
+}
+.skill{
+    items-aline
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 2px 1px 0px color(white
+    );
+    .ru
+}
+.resume-colom{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+.resume-container{
+    display: flex;
+}
+.resume-item-institute, .rusume-item-description{
+    color: #757575;
+    font-size: 20px;
+}
+.working-experiance{
+    color: #757575;
+    font-size: 20px;
+}
+.resume-container hr{
+    margin: 30px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
